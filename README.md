@@ -6,13 +6,20 @@ This project involves process of collecting, analysing, and interpreting data re
 This project aims to systematically analyse healthcare data to uncover patterns and insights that can help healthcare organizations make informed decisions. By examining patient numbers across different categories such as treatment summaries and dialysis stations, the project seeks to identify key trends and opportunities for improvement. The ultimate objective is to support healthcare professionals like doctors and nurses in providing better care and improving the overall well-being of patients.
 
 𝐃𝐚𝐭𝐚𝐬𝐞𝐭:-
+
 Project Name:- USA Healthcare Analysis
+
 Domain:- Healthcare
+
 Dataset Name:- Total 16 files
+
 Dataset Type:- CSV Data
+
 Dataset Zip Folder Size:- 20 MB
 
+
 Key Insights:
+
 ✔ Total Discharge
 
 ✔ Total Patient Days
