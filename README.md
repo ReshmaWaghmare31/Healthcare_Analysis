@@ -14,11 +14,17 @@ Dataset Zip Folder Size:- 20 MB
 
 Key Insights:
 ✔ Total Discharge
+
 ✔ Total Patient Days
+
 ✔ Net Patient Revenue
+
 ✔ Revenue Trend
+
 ✔ County-wise No of Hospital/Available Beds
+
 ✔ Bad Debt Analysis
+
 ✔ Revenue Analysis by type of Hospital
 
 🌟Tools Used: Microsoft Power BI
