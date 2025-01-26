@@ -41,8 +41,8 @@ During this project, I have gained valuable experience in:
 "Transformed data analytics with a Power BI project, improving visualization, boosting decision-making accuracy, streamlining processes for time efficiency, monitoring KPIs effectively, fostering cross-functional collaboration, achieving cost savings, and ensuring heightened data accuracy while driving user adoption and satisfaction."
 
 
+![Healthcare new1](https://github.com/user-attachments/assets/dda7a941-56a6-453f-b789-5c65cf9e63c8)
 
-![Healthcare New](https://github.com/user-attachments/assets/118d124f-0d67-490b-9466-e22eebebb89f)
 
 
 
